@@ -1,0 +1,34 @@
+--create ..\Output\BestFu_STM32L15X_L10200.lib
+..\output\bestfulib.o
+..\output\cmdprocess.o
+..\output\command.o
+..\output\crc.o
+..\output\delay.o
+..\output\eeprom.o
+..\output\faultmanage.o
+..\output\fifo.o
+..\output\flashattr.o
+..\output\linkscanfifo.o
+..\output\linksimplest.o
+..\output\linksrc.o
+..\output\linkwrdc.o
+..\output\msgpackage.o
+..\output\object.o
+..\output\scene&group.o
+..\output\sysexeattr.o
+..\output\systestattr.o
+..\output\thread.o
+..\output\unitshare_attr.o
+..\output\updata.o
+..\output\upload.o
+..\output\userdata.o
+..\output\userdatadownload.o
+..\output\sign433.o
+..\output\sign433attr.o
+..\..\Lib_code\SysLib\Encode_lib.lib
+"..\output\attrencrypt .o"
+..\output\dlyattrprocess.o
+..\output\linksimplesttime.o
+..\output\deviceidsetattr.o
+..\output\devparttab.o
+..\output\timehandle.o

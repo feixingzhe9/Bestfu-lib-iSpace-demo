@@ -1,0 +1,12 @@
+..\output\devparttab.o: ..\..\Lib_code\SysLib\DevPartTab.c
+..\output\devparttab.o: ..\..\Lib_code\App\BF_type.h
+..\output\devparttab.o: ..\..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\devparttab.o: ..\SysHard\inc\program.h
+..\output\devparttab.o: ..\SysHard\inc\flash.h
+..\output\devparttab.o: ..\Core\stm32l1xx.h
+..\output\devparttab.o: ..\Core\core_cm3.h
+..\output\devparttab.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\devparttab.o: ..\Core\core_cmInstr.h
+..\output\devparttab.o: ..\Core\core_cmFunc.h
+..\output\devparttab.o: ..\Core\system_stm32l1xx.h
+..\output\devparttab.o: ..\..\Lib_code\SysLib\inc\DevPartTab.h
